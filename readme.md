@@ -22,6 +22,7 @@ These are the devices used with Obscene Studio
 
 - [novation launchpad mini](assets/novation-launchpad-mini.png)
     ![novation launchpad mini](assets/novation-launchpad-mini.png)
+
 - [novation launchcontrol xl](assets/novation-launchcontrol-xl-3.png)
     ![novation launchcontrol xl](assets/novation-launchcontrol-xl-3.png)
 
@@ -34,7 +35,6 @@ Obscene Studio is integrated with GIPHY and Unsplash. Not neccessary to include 
 
 - use the coolest animated stickers (Giphy)
     ![powered by giphy](assets/Poweredby_640px-Black_HorizLogo.png)
-
 
 ### Demo Videos
 
