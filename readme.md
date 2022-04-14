@@ -3,6 +3,7 @@
 ### Resources
 
 - [website](https://obscene.studio)
+- [explainer PDF](documents/obscene-presentation.pdf)
 
 ### Logos
 
