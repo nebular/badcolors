@@ -18,8 +18,8 @@ These are the devices used with Obscene Studio
 
 - [novation launchpad mini](assets/novation-launchpad-mini.png)
     ![novation launchpad mini](assets/novation-launchpad-mini.png)
-- [novation launchcontrol xl](assets/novation-launchcontrol-xl-2.png)
-    ![novation launchcontrol xl](assets/novation-launchcontrol-xl-2.png)
+- [novation launchcontrol xl](assets/novation-launchcontrol-xl-3.png)
+    ![novation launchcontrol xl](assets/novation-launchcontrol-xl-3.png)
 
 
 ### Demo Videos
