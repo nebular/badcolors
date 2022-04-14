@@ -12,6 +12,14 @@
 - [bw](assets/logo-bw.png)
     ![bw](assets/logo-bw.png)
 
+### MIDI devices
+
+These are the devices used with Obscene Studio
+
+- [novation launchpad mini](assets/novation-launchpad-mini.png)
+- [novation launchcontrol xl](assets/novation-launchcontrol-xl.png)
+
+
 ### Demo Videos
 
 More TBA
