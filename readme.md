@@ -18,10 +18,6 @@
 - [bw](assets/logo-bw.png)
     ![bw](assets/logo-bw.png)
 
-- [title](assets/banner-title.png)
-    ![title](assets/banner-title.png)
-    - font: Oswald
-
 ### MIDI devices
 
 These are the devices used with Obscene Studio
