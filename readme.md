@@ -10,7 +10,7 @@
     ![color](assets/logo-color-1024.png)
 
 - [bw](assets/logo-bw.png)
-    ![bw](assets/logo-bw-1024.png)
+    ![bw](assets/logo-bw.png)
 
 ### Demo Videos
 
