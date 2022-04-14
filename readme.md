@@ -7,7 +7,10 @@
 - Note: As I am not a native english speaker everything in the docs will sound like ... i am not a native english speaker.
   If you pick texts feel free to rephrase them the american way :)
 
+
 ### Logos
+
+- [brand colors](assets/documents/obscene-studio-brand.pdf)
 
 - [color](assets/logo-color-1024.png)
     ![color](assets/logo-color-1024.png)
