@@ -21,6 +21,16 @@ These are the devices used with Obscene Studio
 - [novation launchcontrol xl](assets/novation-launchcontrol-xl-3.png)
     ![novation launchcontrol xl](assets/novation-launchcontrol-xl-3.png)
 
+### Third party integrations
+
+Obscene Studio is integrated with GIPHY and Unsplash. Not neccessary to include in big size, but provided just in case they may fit as a small decoration.
+
+- search & use photos from photographers all over the world (Unsplash), Should say "powered by" if used
+    ![unsplash logo](assets/Unsplash_Logo_Full_White.png)
+
+- use the coolest animated stickers (Giphy)
+    ![powered by giphy](assets/Poweredby_640px-Black_HorizLogo.png)
+
 
 ### Demo Videos
 
