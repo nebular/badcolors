@@ -4,7 +4,7 @@
 
 - [website](https://obscene.studio)
 
-- [branding guidelines](documents/obscene-studio-brand.pdf)
+- [branding guidelines (PDF)](documents/obscene-studio-brand.pdf)
 
 - [explainer PDF](documents/obscene-presentation.pdf)
    - Note: As I am not a native english speaker everything in the docs will sound like ... i am not a native english speaker.
