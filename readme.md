@@ -4,6 +4,8 @@
 
 - [website](https://obscene.studio)
 - [explainer PDF](documents/obscene-presentation.pdf)
+- Note: As I am not a native english speaker everything in the docs will sound like ... i am not a native english speaker.
+  If you pick texts feel free to rephrase them the american way :)
 
 ### Logos
 
