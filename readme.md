@@ -10,7 +10,7 @@
 
 ### Logos
 
-- [brand colors](assets/documents/obscene-studio-brand.pdf)
+- [brand colors](documents/obscene-studio-brand.pdf)
 
 - [color](assets/logo-color-1024.png)
     ![color](assets/logo-color-1024.png)
