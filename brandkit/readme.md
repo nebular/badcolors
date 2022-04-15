@@ -2,6 +2,10 @@
 
 Thank you for downloading Obscene Studio Branding Kit.
 
+### About Obscene Studio
+
+[Obscene Studio](https://obscene.studio), copyright 2022 [Nebular Streams](https://nebular.tv)
+
 ### Resources
 
 - [branding guidelines (PDF)](obscene-studio-brand.pdf)
@@ -25,6 +29,3 @@ Thank you for downloading Obscene Studio Branding Kit.
 - [original](company/nebular-original.png), [black](company/nebular-transparent-dark.png),[white](company/nebular-transparent-white.png)
     ![original](company/nebular-original.png)
 
-### About Obscene Studio
-
-[Obscene Studio](https://obscene.studio), copyright 2022 [Nebular Streams](https://nebular.tv)
