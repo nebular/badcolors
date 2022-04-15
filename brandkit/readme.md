@@ -14,8 +14,8 @@ Thank you for downloading Obscene Studio Branding Kit
 - [color](logos-icon//logo-bw.png)
     ![color](logos-icon//logo-bw.png)
 
-- [horizontal white](horizontal-text/white-horizontal-big.png), [black](brandkit/horizontal-text/black-horizontal-big.png), [transparent](brandkit/horizontal-text/trans-horizontal-big.png)
+- [horizontal white](horizontal-text/white-horizontal-big.png), [black](horizontal-text/black-horizontal-big.png), [transparent](horizontal-text/trans-horizontal-big.png)
     ![bw](horizontal-text/trans-horizontal-big.png)
 
-- [vertical white](vertical-text/vertical-white.png), [black](brandkit/vertical-text/vertical-black.png), [transparent](brandkit/vertical-text/vertical-trans.png)
+- [vertical white](vertical-text/vertical-white.png), [black](vertical-text/vertical-black.png), [transparent](vertical-text/vertical-trans.png)
     ![bw](vertical-text/vertical-trans.png)
