@@ -4,7 +4,7 @@
 
 - [website](https://obscene.studio)
 
-- [branding guidelines (PDF)](documents/obscene-studio-brand.pdf)
+- [branding guidelines (PDF)](brandkit/obscene-studio-brand.pdf)
 
 - [explainer PDF](documents/obscene-presentation.pdf)
    - Note: As I am not a native english speaker everything in the docs will sound like ... i am not a native english speaker.
@@ -19,6 +19,18 @@
 
 - [bw](assets/logo-bw.png)
     ![bw](assets/logo-bw.png)
+
+- [horizontal](brandkit/horizontal-text/trans-horizontal-big.png)
+- [horizontal](brandkit/horizontal-text/white-horizontal-big.png)
+- [horizontal](brandkit/horizontal-text/black-horizontal-big.png)
+    ![bw](brandkit/horizontal-text/trans-horizontal-big.png)
+
+- [vertical](brandkit/vertical-text/trans-vertical-big.png)
+- [vertical](brandkit/vertical-text/white-vertical-big.png)
+- [vertical](brandkit/vertical-text/black-vertical-big.png)
+    ![bw](brandkit/vertical-text/trans-vertical-big.png)
+
+
 
 ### MIDI devices
 
