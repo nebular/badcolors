@@ -25,10 +25,10 @@
 - [horizontal black](brandkit/horizontal-text/black-horizontal-big.png)
     ![bw](brandkit/horizontal-text/trans-horizontal-big.png)
 
-- [vertical transparent](brandkit/vertical-text/trans-vertical.png)
-- [vertical white](brandkit/vertical-text/white-vertical.png)
-- [vertical black](brandkit/vertical-text/black-vertical.png)
-    ![bw](brandkit/vertical-text/trans-vertical.png)
+- [vertical transparent](brandkit/vertical-text/vertical-trans.png)
+- [vertical white](brandkit/vertical-text/vertical-white.png)
+- [vertical black](brandkit/vertical-text/vertical-black.png)
+    ![bw](brandkit/vertical-text/vertical-trans.png)
 
 
 
