@@ -20,15 +20,15 @@
 - [bw](assets/logo-bw.png)
     ![bw](assets/logo-bw.png)
 
-- [horizontal](brandkit/horizontal-text/trans-horizontal-big.png)
-- [horizontal](brandkit/horizontal-text/white-horizontal-big.png)
-- [horizontal](brandkit/horizontal-text/black-horizontal-big.png)
+- [horizontal transparent](brandkit/horizontal-text/trans-horizontal-big.png)
+- [horizontal white](brandkit/horizontal-text/white-horizontal-big.png)
+- [horizontal black](brandkit/horizontal-text/black-horizontal-big.png)
     ![bw](brandkit/horizontal-text/trans-horizontal-big.png)
 
-- [vertical](brandkit/vertical-text/trans-vertical-big.png)
-- [vertical](brandkit/vertical-text/white-vertical-big.png)
-- [vertical](brandkit/vertical-text/black-vertical-big.png)
-    ![bw](brandkit/vertical-text/trans-vertical-big.png)
+- [vertical transparent](brandkit/vertical-text/trans-vertical.png)
+- [vertical white](brandkit/vertical-text/white-vertical.png)
+- [vertical black](brandkit/vertical-text/black-vertical.png)
+    ![bw](brandkit/vertical-text/trans-vertical.png)
 
 
 
