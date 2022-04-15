@@ -19,3 +19,8 @@ Thank you for downloading Obscene Studio Branding Kit
 
 - [vertical white](vertical-text/vertical-white.png), [black](vertical-text/vertical-black.png), [transparent](vertical-text/vertical-trans.png)
     ![bw](vertical-text/vertical-trans.png)
+
+### Company Logos
+
+- [original](company/nebular-original.png), [black](company/nebular-transparent-dark.png),[white](company/nebular-transparent-white.png)
+    ![original](company/nebular-original.png)
